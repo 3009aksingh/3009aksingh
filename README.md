@@ -1,9 +1,5 @@
 ### Hi there 👋
 
-<!--
-**3009aksingh/3009aksingh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on my web development skills.
@@ -11,12 +7,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on some projects which can help my knowledge grow.
 - 🤔 I’m looking for help with being a good open source contributor.
 - 💬 Ask me about MERN where R is silent presently, never mind ;)
-- 📫 How to reach me: 
-[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com)
-[![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)
-- 😄 Pronouns: Focusing on what is best for the community
 - ⚡ Fun fact: I am helpful and open to those who respects others time.
-
 
 #### Github Stats
 <img src="https://github-readme-stats.vercel.app/api?username=3009aksingh&show_icons=true&theme=gotham" alt="github stats" width="45%" align="right"/>
@@ -26,5 +17,7 @@ Here are some ideas to get you started:
 
 ### Top Languages
  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=3009aksingh&layout=compact)
+
+### Connect with me:
 
 
