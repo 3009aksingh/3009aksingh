@@ -16,6 +16,8 @@
 
 - 📫 How to reach me **3009aksingh@gmail.com**
 
+- 📄 Know about my experiences [a.com](a.com)
+
 - ⚡ Fun fact **I am helpful and open to those who respects others time.**
 
 <h3 align="left">Connect with me:</h3>
