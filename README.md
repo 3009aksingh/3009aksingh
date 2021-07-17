@@ -3,7 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=3009aksingh&label=Profile%20views&color=0e75b6&style=flat" alt="3009aksingh" /> </p>
 
-<p align="left"> <a href="https://twitter.com/aksingh_2000" target="blank"><img src="https://img.shields.io/twitter/follow/aksingh_2000s?logo=twitter&style=for-the-badge" alt="aksingh_2000s" /></a> </p>
 
 - 🔭 I’m currently working on **my web development skills**
 
@@ -21,7 +20,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/aksingh_2000s" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aksingh_2000s" height="30" width="40" /></a>
+<a href="https://twitter.com/aksingh_2000" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aksingh_2000s" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/ankitkumarsingh3009" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ankitkumarsingh3009" height="30" width="40" /></a>
 <a href="https://fb.com/3009aksingh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="3009aksingh" height="30" width="40" /></a>
 <a href="https://instagram.com/ak_singh2000" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ak_singh2000" height="30" width="40" /></a>
