@@ -10,7 +10,7 @@
 
 - 🤝 I’m looking for help with **solving DSA problems 😅**
 
-- 👨‍💻 All of my projects are available at [3009aksingh.github.io](3009aksingh.github.io)
+<!-- - 👨‍💻 All of my projects are available at [3009aksingh.github.io](3009aksingh.github.io) -->
 
 - 💬 Ask me about **MERN stack where 'R' is silent. Never mind, I'm learning it.**
 
