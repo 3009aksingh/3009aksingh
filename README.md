@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=3009aksingh&label=Profile%20views&color=0e75b6&style=flat" alt="3009aksingh" /> </p>
 
-<p align="left"> <a href="https://twitter.com/aksingh_2000s" target="blank"><img src="https://img.shields.io/twitter/follow/aksingh_2000s?logo=twitter&style=for-the-badge" alt="aksingh_2000s" /></a> </p>
+<p align="left"> <a href="https://twitter.com/aksingh_2000" target="blank"><img src="https://img.shields.io/twitter/follow/aksingh_2000s?logo=twitter&style=for-the-badge" alt="aksingh_2000s" /></a> </p>
 
 - 🔭 I’m currently working on **my web development skills**
 
