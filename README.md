@@ -35,7 +35,7 @@
 <a href="https://www.nginx.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a></p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=3009aksingh&show_icons=true&locale=en&layout=compact" alt="3009aksingh" /></p>
-<br>
+<br />
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=3009aksingh&show_icons=true&locale=en" alt="3009aksingh" /></p>
 <br />
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=3009aksingh&" alt="3009aksingh" /></p>
