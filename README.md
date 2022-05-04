@@ -4,7 +4,7 @@
 
 <!-- <img  src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="440" height="400" object-fit: "cover" border-radius: "50%" height: "100px"
   width: "100px" frameBorder="0" class="giphy-embed" align="right"/> -->
-  <img  src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350" height="290" frameBorder="0" class="giphy-embed" align="right"/>
+  <img  src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="380" height="320" frameBorder="0" class="giphy-embed" align="right"/>
 <!-- https://raw.githubusercontent.com/sailikhithk/sailikhithk/master/welcome-1.gif -->
 <!-- <iframe src="https://giphy.com/embed/u2pmTWUi0MXjyrMaVj" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/CapgeminiIndia-coding-techchallenge2020-techchallenge-u2pmTWUi0MXjyrMaVj">via GIPHY</a></p> -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=3009aksingh&label=Profile%20views&color=0e75b6&style=flat" alt="3009aksingh" /> </p>
