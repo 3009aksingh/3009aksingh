@@ -2,7 +2,7 @@
 <h3 align="center">A passionate web developer from India </h3>
 
   <p align="left"> <img src="https://komarev.com/ghpvc/?username=3009aksingh&label=Profile%20views&color=0e75b6&style=flat" alt="3009aksingh" /> </p>
-  <img  src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="380" height="330" frameBorder="0" class="giphy-embed" align="right" border-radius:" 15px 50px 30px 5px"/>
+  <img  src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="380" height="330" frameBorder="0" align="right"/>
 
 - 🔭 I’m currently working on **my web development skills**
 
