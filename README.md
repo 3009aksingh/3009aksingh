@@ -2,8 +2,8 @@
 <h3 align="center">A passionate web developer from India </h3>
 
   <p align="left"> <img src="https://komarev.com/ghpvc/?username=3009aksingh&label=Profile%20views&color=0e75b6&style=flat" alt="3009aksingh" /> </p>
-  <img  src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="380" height="330" frameBorder="0" align="right"/>
-
+<!--   <img  src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="380" height="330" frameBorder="0" align="right"/> -->
+<a href="https://app.daily.dev/aksingh3009"><img src="https://api.daily.dev/devcards/bf779328cd144f55a19515b3f7de02b0.png?r=l1a" width="400" alt="Ankitkumar Santosh Singh's Dev Card"/></a>
 - 🔭 I’m currently working on **my web development skills**
 
 - 🌱 I’m currently learning **Web development and DSA.**
