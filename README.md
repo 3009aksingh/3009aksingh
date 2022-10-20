@@ -1,5 +1,4 @@
-<h1 align="center">Hi there, नमस्ते (Namaste) ![image](https://user-images.githubusercontent.com/30768719/196916494-93561ed7-2f05-4106-b3bc-c8eaf61a171a.png)
-</h3>
+<h1 align="center">Hi there, नमस्ते (Namaste) 🙏🏻</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=3009aksingh&label=Profile%20views&color=0e75b6&style=flat" alt="3009aksingh" /> </p>
 
