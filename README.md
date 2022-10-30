@@ -1,8 +1,23 @@
-<h1 align="center">Hi there, नमस्ते (Namaste) 🙏🏻</h3>
+<!-- <h1 align="center">Hi there, नमस्ते (Namaste) 🙏🏻</h3> -->
+<p align='center' style='margin: 16px 4px 8px;'>
+    <img src="./assets/greetings.gif" alt="Hello World" />
+</p>
+
+<h1 align="center">
+    Hi <img src='./assets/wave.gif' height='26' alt='there'>, I'm Ankitkumar Singh.
+</h1>
+
+	
+<p align='center' style='margin: 16px 4px 8px;'>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=54A6FF&center=true&vCenter=true&multiline=true&width=710&height=70&lines=Welcome+to+my+GitHub+Profile;I+am+a+passionate+full-stack+software+engineer+from+India" alt="Welcome to my GitHub Profile. I am a passionate full-stack software engineer from India." />
+</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=3009aksingh&label=Profile%20views&color=0e75b6&style=flat" alt="3009aksingh" /> </p>
 
 <p align="left"> <a href="https://twitter.com/aksingh_2000" target="blank"><img src="https://img.shields.io/twitter/follow/aksingh_2000?logo=twitter&style=for-the-badge" alt="aksingh_2000" /></a> </p>
+<p align='right' style='margin: 12px 2px 6px;'>
+    <img src="./assets/dev-working_rounded.gif" alt="working developer">
+</p>
 
 - 🔭 I’m currently working on [leetcode.](https://leetcode.com/3009aksingh/)
 
