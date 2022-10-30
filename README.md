@@ -16,9 +16,9 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">    </p>         
 <br>
 
-<p align='right' style='margin: 12px 2px 6px;'>
-    <img src="./assets/dev-working_rounded.gif" style="float: right; margin: 0px 0px 15px 15px;" alt="working developer" >
-</p>
+<!-- <p align='right' style='margin: 12px 2px 6px;'> -->
+    <img src="./assets/dev-working_rounded.gif" style="align: right" width = "400" height = "300" alt="working developer" >
+<!-- </p> -->
 
 - 🔭 I’m currently working on [leetcode.](https://leetcode.com/3009aksingh/)
 
