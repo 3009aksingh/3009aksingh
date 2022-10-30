@@ -11,14 +11,14 @@
 <p align='center' style='margin: 16px 4px 8px;'>
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=54A6FF&center=true&vCenter=true&multiline=true&width=710&height=70&lines=Welcome+to+my+GitHub+Profile;I+am+a+passionate+full-stack+software+engineer+from+India" alt="Welcome to my GitHub Profile. I am a passionate full-stack software engineer from India." />
 </p>
-<p align='right' style='margin: 12px 2px 6px;'>
-    <img src="./assets/dev-working_rounded.gif" style="float: right; margin: 0px 0px 15px 15px;" alt="working developer" width="500" height="500">
-</p>
 
 <p  align="center">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
 <br>
 
+	<p align='right' style='margin: 12px 2px 6px;'>
+    <img src="./assets/dev-working_rounded.gif" style="float: right; margin: 0px 0px 15px 15px;" alt="working developer" width="500" height="400">
+</p>
 
 - 🔭 I’m currently working on [leetcode.](https://leetcode.com/3009aksingh/)
 
