@@ -3,9 +3,9 @@
     <img src="./assets/greetings.gif" alt="Hello World" />
 </p>
 
-<h1 align="center">
+<!-- <h1 align="center">
     Hi <img src='./assets/wave.gif' height='26' alt='there'>, I'm Ankitkumar Singh.
-</h1>
+</h1> -->
 
 	
 <p align='center' style='margin: 16px 4px 8px;'>
@@ -15,8 +15,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=3009aksingh&label=Profile%20views&color=0e75b6&style=flat" alt="3009aksingh" /> </p>
 
 <p align="left"> <a href="https://twitter.com/aksingh_2000" target="blank"><img src="https://img.shields.io/twitter/follow/aksingh_2000?logo=twitter&style=for-the-badge" alt="aksingh_2000" /></a> </p>
+
 <p align='right' style='margin: 12px 2px 6px;'>
-    <img src="./assets/dev-working_rounded.gif" alt="working developer">
+    <img src="./assets/dev-working_rounded.gif" alt="working developer" style='height: 12px width: 12 px'>
 </p>
 
 - 🔭 I’m currently working on [leetcode.](https://leetcode.com/3009aksingh/)
