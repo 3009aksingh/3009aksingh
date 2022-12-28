@@ -26,7 +26,7 @@
   <img src = "https://forthebadge.com/images/badges/powered-by-coffee.svg" />
 </div> -->
 
-<h2> Let's start with an intro... <img src="https://media2.giphy.com/media/ZDNQdzCUjIK9VNUE2c/giphy.gif?cid=ecf05e474lxhug39vhb8kxzk03q29lrapvfeimi9orvhcvb1&rid=giphy.gif&ct=s" width="50" />
+<h2> Let's start with an intro...<img src="https://media2.giphy.com/media/ZDNQdzCUjIK9VNUE2c/giphy.gif?cid=ecf05e474lxhug39vhb8kxzk03q29lrapvfeimi9orvhcvb1&rid=giphy.gif&ct=s" width="50" />
 </h2>
 
 - 🔭 I’m currently working as an Engineering Trainee at <a href="https://www.jio.com/platforms">Jio Platforms </a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
