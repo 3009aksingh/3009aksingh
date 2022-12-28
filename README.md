@@ -29,13 +29,13 @@
 <h2> Let's start with an intro... <img src="https://media2.giphy.com/media/ZDNQdzCUjIK9VNUE2c/giphy.gif?cid=ecf05e474lxhug39vhb8kxzk03q29lrapvfeimi9orvhcvb1&rid=giphy.gif&ct=s" width="50" />
 </h2>
 
-- 🔭 I’m currently working on [leetcode.](https://leetcode.com/3009aksingh/)
+- 🔭 I’m currently working as an Engineering Trainee at <a href="https://www.jio.com/platforms">Jio Platforms</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 
 - 🌱 I’m currently learning **MERN stack.**
 
-- 👯 I’m looking to collaborate on **solving DSA problems on leetcode.**
+- 👯 I’m looking to collaborate on **projects based on web dev.**
 
-- 🤝 I’m looking for help with **solving DSA problems.**
+- 🤝 I’m looking for help with **solving DSA problems on [leetcode.](https://leetcode.com/3009aksingh/).**
 
 - 👨‍💻 All of my projects are available at [https://github.com/3009aksingh](https://github.com/3009aksingh)
 
