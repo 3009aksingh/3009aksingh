@@ -79,8 +79,8 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=3009aksingh&show_icons=true&locale=en&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5" alt="3009aksingh" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=3009aksingh&&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5" alt="3009aksingh" /></p>
-
+<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=3009aksingh&&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5" alt="3009aksingh" /></p> -->
+<br>
 <h2 align="center">🤝 Support</h2>
 <p align="center">🎀 Contributions, 🔥 issues, and 🥮 feature requests are most welcome!</p>
 <p align="center">💙 If you like my projects, Give them ⭐ and Share it with your friends!</p>
