@@ -55,7 +55,6 @@
 	
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50">
 <a href="https://codepen.io/3009aksingh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="3009aksingh" height="30" width="40" /></a>
 <a href="https://dev.to/3009aksingh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="3009aksingh" height="30" width="40" /></a>
 <a href="https://twitter.com/aksingh_2000" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aksingh_2000" height="30" width="40" /></a>
@@ -85,4 +84,4 @@
 <img src="https://capsule-render.vercel.app/api?section=footer&type=waving&color=0:00c7ad,70:6e97fd,100:5d52ac" alt="Header" width = "100%"/>
 
 <p align = "center"><b>I've pinned few of my projects here, hope you ⭐ and 🍴 them :)</b></p>
-<p align = "center"><b>Thank you for your visit!<b></p>
+<p align = "center"><b>Thank you for your visit!<b><img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></p>
