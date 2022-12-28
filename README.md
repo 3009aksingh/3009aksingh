@@ -22,6 +22,9 @@
 <!--     <img src="./assets/dev-working_rounded.gif" style="align: right" width = "400" height = "300" alt="working developer" /> -->
 <!-- </p> -->
 
+<h2> Let's start with an intro... <img src="https://media2.giphy.com/media/ZDNQdzCUjIK9VNUE2c/giphy.gif?cid=ecf05e474lxhug39vhb8kxzk03q29lrapvfeimi9orvhcvb1&rid=giphy.gif&ct=s" width="50" />
+</h2>
+
 - 🔭 I’m currently working on [leetcode.](https://leetcode.com/3009aksingh/)
 
 - 🌱 I’m currently learning **MERN stack.**
