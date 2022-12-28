@@ -17,7 +17,8 @@
 <br>
 
 	
-<img src="./assets/dev-working_rounded.gif" align="right" width = "400" height = "320" alt="working developer" /><br>
+<!-- <img src="./assets/dev-working_rounded.gif" align="right" width = "400" height = "320" alt="working developer" /><br> -->
+
 <!-- <p align='right' style='margin: 12px 2px 6px;'> -->
 <!--     <img src="./assets/dev-working_rounded.gif" style="align: right" width = "400" height = "300" alt="working developer" /> -->
 <!-- </p> -->
