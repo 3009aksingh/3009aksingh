@@ -81,8 +81,13 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=3009aksingh&&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5" alt="3009aksingh" /></p>
 
+<h2 align="center">🤝 Support</h2>
+<p align="center">🎀 Contributions, 🔥 issues, and 🥮 feature requests are most welcome!</p>
+<p align="center">💙 If you like my projects, Give them ⭐ and Share it with your friends!</p>
+</p>
+<p align="center">Made with ❤️ in India</p>
+<h1 align='center'>⚡️<i>Stay awesome!</i>⚡️</h1>
+
 <img src="https://capsule-render.vercel.app/api?section=footer&type=waving&color=0:00c7ad,70:6e97fd,100:5d52ac" alt="Header" width = "100%"/>
 
-<p align = "center"><b>I've pinned few of my projects here, hope you ⭐ and 🍴 them :)</b></p>
-<p align = "center"><b>Thank you for your visit!<b></p>
 <!-- <p><img align="center" src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif"  width="50"></p> -->
