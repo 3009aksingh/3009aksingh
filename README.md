@@ -92,5 +92,6 @@
 <h2 align='center'>⚡<i>Stay awesome!</i>⚡</h2>
 <img align="center" alt="GIF" src="https://media.giphy.com/media/hrSFdM4rg8VFpXyz2m/giphy.gif" />
 <img src="https://capsule-render.vercel.app/api?section=footer&type=waving&color=0:00c7ad,70:6e97fd,100:5d52ac" alt="Header" width = "100%"/>
+<img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" alt="Header" width = "100%"/>
 
 <!-- <p><img align="center" src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif"  width="50"></p> -->
