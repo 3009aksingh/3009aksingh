@@ -35,19 +35,19 @@
 
 - 👯 I’m looking to collaborate on **projects based on web dev.**
 
-- 🤝 I’m looking for help with **solving DSA problems on [leetcode.](https://leetcode.com/3009aksingh/).**
+- 🤝 I’m looking for help with **solving DSA problems on [leetcode](https://leetcode.com/3009aksingh/).**
 
-- 👨‍💻 All of my projects are available at [https://github.com/3009aksingh](https://github.com/3009aksingh)
+- 👨‍💻 All of my projects are available on [Github](https://github.com/3009aksingh).
 
-- 📝 I am planning to write articles on [https://dev.to/](https://dev.to/)
+- 📝 I am planning to write articles on [Dev.to](https://dev.to/).
 
 - 💬 Ask me about **computer science fundamentals and web development.**
 
 - 📫 How to reach me **3009aksingh@gmail.com**
 
-- 📄 Know about my experiences [https://ankit-singh-portfolio.herokuapp.com/](https://ankit-singh-portfolio.herokuapp.com/)
+- 📄 Know about my experiences [Portfolio link](https://ankit-singh-portfolio.herokuapp.com/)
 
-- ⚡ Fun fact **I am helpful and open to those who respects others time.**
+- ⚡ Fun fact **I am helpful and open to those who respects others time.**<img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=3009aksingh&label=Profile%20views&color=0e75b6&style=flat" alt="3009aksingh" /> </p>
 <br>
