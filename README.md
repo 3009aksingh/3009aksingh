@@ -29,7 +29,7 @@
 <h2> Let's start with an intro... <img src="https://media2.giphy.com/media/ZDNQdzCUjIK9VNUE2c/giphy.gif?cid=ecf05e474lxhug39vhb8kxzk03q29lrapvfeimi9orvhcvb1&rid=giphy.gif&ct=s" width="50" />
 </h2>
 
-- 🔭 I’m currently working as an Engineering Trainee at <a href="https://www.jio.com/platforms">Jio Platforms</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+- 🔭 I’m currently working as an Engineering Trainee at <a href="https://www.jio.com/platforms">Jio Platforms </a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 
 - 🌱 I’m currently learning **MERN stack.**
 
@@ -47,9 +47,9 @@
 
 - 📄 Know about my experiences [Portfolio link](https://ankit-singh-portfolio.herokuapp.com/)
 
-- ⚡ Fun fact **I am helpful and open to those who respects others time.**<img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50">
+- ⚡ Fun fact **I am helpful and open to those who respects others time.**
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=3009aksingh&label=Profile%20views&color=0e75b6&style=flat" alt="3009aksingh" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=3009aksingh&label=Profile%20views&color=0e75b6&style=flat" alt="3009aksingh" /> <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></p>
 <br>
 <p align="left"> <a href="https://twitter.com/aksingh_2000" target="blank"><img src="https://img.shields.io/twitter/follow/aksingh_2000?logo=twitter&style=for-the-badge" alt="aksingh_2000" /></a> </p>	
 	
