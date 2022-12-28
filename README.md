@@ -1,58 +1,44 @@
+
+
+
 <!-- <h1 align="center">Hi there, नमस्ते (Namaste) 🙏🏻</h3> -->
 <p align='center' style='margin: 16px 4px 8px;'>
     <img src="./assets/greetings.gif" alt="Hello World" />
 </p>
-
 <!-- <h1 align="center">
     Hi <img src='./assets/wave.gif' height='26' alt='there'>, I'm Ankitkumar Singh.
 </h1> -->
-
-	
+    
 <p align='center' style='margin: 16px 4px 8px;'>
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=54A6FF&center=true&vCenter=true&multiline=true&width=710&height=70&lines=Welcome+to+my+GitHub+Profile;I+am+a+passionate+full-stack+software+engineer+from+India" alt="Welcome to my GitHub Profile. I am a passionate full-stack software engineer from India." />
 </p>
-
 <p  align="center">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">  </p>         
-	
+    
 <!-- <img src="./assets/dev-working_rounded.gif" align="right" width = "400" height = "320" alt="working developer" /><br> -->
-
 <!-- <p align='right' style='margin: 12px 2px 6px;'> -->
 <!--     <img src="./assets/dev-working_rounded.gif" style="align: right" width = "400" height = "300" alt="working developer" /> -->
 <!-- </p> -->
-
 <!-- <div align="left">
   <img src="https://forthebadge.com/images/badges/built-with-love.svg" />
   <img src = "https://forthebadge.com/images/badges/powered-by-coffee.svg" />
 </div> -->
-
 <h2> Let's start with an intro... <img src="https://media2.giphy.com/media/ZDNQdzCUjIK9VNUE2c/giphy.gif?cid=ecf05e474lxhug39vhb8kxzk03q29lrapvfeimi9orvhcvb1&rid=giphy.gif&ct=s" width="50" />
 </h2>
-
-- <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  I’m currently working at Jio Platforms.
-
-- <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> I’m currently learning **MERN stack.**
-
--  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> I’m looking to collaborate on **solving DSA problems on [leetcode.](https://leetcode.com/3009aksingh/).**
-
-- 🤝 I’m looking for help with **solving DSA problems.**
-
+- 🔭 I’m currently working as an Engineer trainee at <a href="https://www.jio.com/platforms">Jio Platforms</a> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
+- 🌱 I’m currently learning **MERN stack.**
+- 👯 I’m looking to collaborate on **projects based on web dev.**
+- 🤝 I’m looking for help with **solving DSA problems on [leetcode.](https://leetcode.com/3009aksingh/).**
 - 👨‍💻 All of my projects are available at [https://github.com/3009aksingh](https://github.com/3009aksingh)
-
 - 📝 I am planning to write articles on [https://dev.to/](https://dev.to/)
-
 - 💬 Ask me about **computer science fundamentals and web development.**
-
 - 📫 How to reach me **3009aksingh@gmail.com**
-
 - 📄 Know about my experiences [https://ankit-singh-portfolio.herokuapp.com/](https://ankit-singh-portfolio.herokuapp.com/)
-
-- ⚡ Fun fact **I am helpful and open to those who respects others time.** <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50">
-
+- ⚡ Fun fact **I am helpful and open to those who respects others time.**
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=3009aksingh&label=Profile%20views&color=0e75b6&style=flat" alt="3009aksingh" /> </p>
 <br>
-<p align="left"> <a href="https://twitter.com/aksingh_2000" target="blank"><img src="https://img.shields.io/twitter/follow/aksingh_2000?logo=twitter&style=for-the-badge" alt="aksingh_2000" /></a> </p>	
-	
+<p align="left"> <a href="https://twitter.com/aksingh_2000" target="blank"><img src="https://img.shields.io/twitter/follow/aksingh_2000?logo=twitter&style=for-the-badge" alt="aksingh_2000" /></a> </p>    
+    
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/3009aksingh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="3009aksingh" height="30" width="40" /></a>
@@ -70,18 +56,11 @@
 <a href="https://www.hackerearth.com/@ankit3373" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@ankit3373" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/https://auth.geeksforgeeks.org/user/noob942/profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/noob942/profile" height="30" width="40" /></a>
 </p>
-
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> </p>
-
-
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=3009aksingh&show_icons=true&locale=en&layout=compact&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5" alt="3009aksingh" /></p>
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=3009aksingh&show_icons=true&locale=en&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5" alt="3009aksingh" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=3009aksingh&&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5" alt="3009aksingh" /></p>
-
 <img src="https://capsule-render.vercel.app/api?section=footer&type=waving&color=0:00c7ad,70:6e97fd,100:5d52ac" alt="Header" width = "100%"/>
-
 <p align = "center"><b>I've pinned few of my projects here, hope you ⭐ and 🍴 them :)</b></p>
 <p align = "center"><b>Thank you for your visit!<b></p>
