@@ -14,8 +14,6 @@
 
 <p  align="center">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">  </p>         
-<br>
-
 	
 <!-- <img src="./assets/dev-working_rounded.gif" align="right" width = "400" height = "320" alt="working developer" /><br> -->
 
