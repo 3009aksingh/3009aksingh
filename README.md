@@ -76,7 +76,7 @@
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=3009aksingh&show_icons=true&locale=en&layout=compact&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5" alt="3009aksingh" /></p>
-<br>
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=3009aksingh&show_icons=true&locale=en&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5" alt="3009aksingh" /></p>
 
 <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=3009aksingh&&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5" alt="3009aksingh" /></p> -->
@@ -85,8 +85,8 @@
 <p align="center">🎀 Contributions, 🔥 issues, and 🥮 feature requests are most welcome!</p>
 <p align="center">💙 If you like my projects, Give them ⭐ and Share it with your friends!</p>
 </p>
-<p align="center">Made with ❤️ in India</p>
-<h1 align='center'>⚡️<i>Stay awesome!</i>⚡️</h1>
+<p align="center">Made with ❤️ in India </p>
+<h2 align='center'>⚡<img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/><i>Stay awesome!</i><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/></h2>
 
 <img src="https://capsule-render.vercel.app/api?section=footer&type=waving&color=0:00c7ad,70:6e97fd,100:5d52ac" alt="Header" width = "100%"/>
 
