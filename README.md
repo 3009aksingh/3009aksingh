@@ -85,4 +85,4 @@
 
 <p align = "center"><b>I've pinned few of my projects here, hope you ⭐ and 🍴 them :)</b></p>
 <p align = "center"><b>Thank you for your visit!<b></p>
-<p><img align="center" src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif"  width="50"></p>
+<!-- <p><img align="center" src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif"  width="50"></p> -->
