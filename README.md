@@ -29,11 +29,11 @@
 <h2> Let's start with an intro... <img src="https://media2.giphy.com/media/ZDNQdzCUjIK9VNUE2c/giphy.gif?cid=ecf05e474lxhug39vhb8kxzk03q29lrapvfeimi9orvhcvb1&rid=giphy.gif&ct=s" width="50" />
 </h2>
 
-- 🔭 I’m currently working on [leetcode.](https://leetcode.com/3009aksingh/)
+- <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  I’m currently working at Jio Platforms.
 
-- 🌱 I’m currently learning **MERN stack.**
+- <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> I’m currently learning **MERN stack.**
 
-- 👯 I’m looking to collaborate on **solving DSA problems on leetcode.**
+-  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> I’m looking to collaborate on **solving DSA problems on [leetcode.](https://leetcode.com/3009aksingh/).**
 
 - 🤝 I’m looking for help with **solving DSA problems.**
 
@@ -47,7 +47,7 @@
 
 - 📄 Know about my experiences [https://ankit-singh-portfolio.herokuapp.com/](https://ankit-singh-portfolio.herokuapp.com/)
 
-- ⚡ Fun fact **I am helpful and open to those who respects others time.**
+- ⚡ Fun fact **I am helpful and open to those who respects others time.** <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=3009aksingh&label=Profile%20views&color=0e75b6&style=flat" alt="3009aksingh" /> </p>
 <br>
