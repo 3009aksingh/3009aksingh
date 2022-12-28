@@ -50,7 +50,7 @@
 - ⚡ Fun fact **I am helpful and open to those who respects others time.**
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=3009aksingh&label=Profile%20views&color=0e75b6&style=flat" alt="3009aksingh" /></p>
-<br>
+
 <p align="left"> <a href="https://twitter.com/aksingh_2000" target="blank"><img src="https://img.shields.io/twitter/follow/aksingh_2000?logo=twitter&style=for-the-badge" alt="aksingh_2000" /></a> </p>	
 	
 <h3 align="left">Connect with me:</h3>
@@ -76,7 +76,7 @@
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=3009aksingh&show_icons=true&locale=en&layout=compact&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5" alt="3009aksingh" /></p>
-
+<br>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=3009aksingh&show_icons=true&locale=en&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5" alt="3009aksingh" /></p>
 
 <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=3009aksingh&&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5" alt="3009aksingh" /></p> -->
