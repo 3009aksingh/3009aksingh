@@ -76,10 +76,10 @@
 <br>
 <img align="center" src="https://user-images.githubusercontent.com/48784001/203785020-2b4826c1-7ddb-4de8-b65b-ebf6e04c5290.jpeg"></img>
 <br>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=3009aksingh&show_icons=true&locale=en&layout=compact&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5" alt="3009aksingh" /></p>
+<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=3009aksingh&show_icons=true&locale=en&layout=compact&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5" alt="3009aksingh" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=3009aksingh&show_icons=true&locale=en&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5" alt="3009aksingh" /></p>
-
+ -->
 <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=3009aksingh&&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5" alt="3009aksingh" /></p> -->
 <p  align="center">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">  </p> 
